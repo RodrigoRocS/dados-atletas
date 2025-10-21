@@ -113,7 +113,8 @@ Categoria: Adulto
 IMC: 27.68
 Média Válida: 9.25
 
-👨‍💻 Desenvolvido para
+👨‍💻 Desenvolvido para:
+
 Sistema desenvolvido para organização de competições esportivas, demonstrando aplicação prática de programação orientada a objetos em JavaScript para solução de problemas reais.
 
 Este projeto implementa um sistema completo de gerenciamento de atletas, aplicando conceitos avançados de JavaScript e boas práticas de desenvolvimento.
